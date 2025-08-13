@@ -5,8 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-6.1_Unsupervised_Learning_Algorithms.ipynb
-Customer_Segmentation_.ipynb
+
 
 # Distribution / packaging
 .Python
